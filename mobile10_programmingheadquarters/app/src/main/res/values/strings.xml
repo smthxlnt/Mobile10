@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobile10_ProgrammingHeadquarters</string>
+    <string name="for_new_pass">Задать ПИН-код</string>
+    <string name="in">Ввести</string>
+    <string name="label_in">Введите ПИН-код</string>
+    <string name="confirm">Потвердить</string>
+    <string name="label_confirm">Потвердите ПИН-код</string>
+</resources>
